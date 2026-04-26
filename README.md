@@ -40,7 +40,7 @@ In this project, I used the Kaggle "Natural Language Processing with Disaster Tw
 | :--- | :--- | :--- |
 | **Logistic Regression** | TF-IDF (Basic) | **79.650%** |
 | **LinearSVC** | TF-IDF (Optimized pipeline) | **80.386%** |
-| **BERT** | Transformer + Fine-tuning | **83%** |
+| **BERT** | Transformer + Fine-tuning | **83.818%** |
 
 ## 🔗 Dataset Source
 
