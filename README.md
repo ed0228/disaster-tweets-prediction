@@ -21,9 +21,8 @@ In this project, I used the Kaggle "Natural Language Processing with Disaster Tw
 ## 📁 Repository Structure
 
     .
-    ├── notebooks/
-    │   ├── logistic.ipynb         # Data cleaning, Logistic Regression, and LinearSVC optimization
-    │   └── bert.ipynb             # BERT fine-tuning and evaluation
+    ├── logistic.ipynb         # Data cleaning, Logistic Regression, and LinearSVC optimization
+    ├── bert.ipynb             # BERT fine-tuning and evaluation
     ├── outputs/
     │   ├── submission_logistic.csv
     │   ├── submission_linearSVC.csv
